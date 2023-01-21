@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+![This is an image](https://github.com/Mahmoud7Hany/weather_app/blob/main/%D8%B5%D9%88%D8%B1%D9%87%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A8%D8%B9%D8%AF%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1/1.png)
 
-This project is a starting point for a Flutter application.
+![This is an image](https://github.com/Mahmoud7Hany/weather_app/blob/main/%D8%B5%D9%88%D8%B1%D9%87%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A8%D8%B9%D8%AF%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1/2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![This is an image](https://github.com/Mahmoud7Hany/weather_app/blob/main/%D8%B5%D9%88%D8%B1%D9%87%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A8%D8%B9%D8%AF%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1/3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
